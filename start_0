@@ -1,0 +1,3 @@
+#! /bin/bash
+conky -c ~/.conky/coplan --alignment=bottom_left &
+exit 0

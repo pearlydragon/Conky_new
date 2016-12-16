@@ -1,0 +1,17 @@
+
+# dimenstions
+WIDTH = 1366;
+HEIGHT = 748;
+
+# network
+NETWORK = enp2s0;
+
+# cpu
+NO_OF_CORES = 2;
+
+# color scheme the values are DARK or WHITE 
+COLOR = WHITE;
+
+# gmail account
+MAIL = '''MAIL''':'''PASSWARD''' https://mail.google.com/mail/feed/atom/unread;
+
